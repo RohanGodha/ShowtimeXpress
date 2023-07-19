@@ -1,3 +1,7 @@
+# ShowtimeXpress
+
+ShowtimeXpress: A cutting-edge web app with MongoDB, Express.js, React.js, Node.js, JavaScript, Postman-API. Effortless CRUD operations, APIs, and DB management. Sleek, responsive interface with dynamic animations for a seamless user experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

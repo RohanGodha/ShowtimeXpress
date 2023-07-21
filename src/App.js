@@ -1,5 +1,6 @@
-import React from "react";
 import "./App.css";
+import React from "react";
+
 // Routing
 import { Routes, Route } from "react-router-dom";
 // React slick css

@@ -3,8 +3,9 @@ import PaymentModel from "../PaymentModal/Payment.Component";
 import { MovieContext } from "../../context/Movie.context";
 
 const MovieInfo = ({ movie }) => {
-  const { price, setIsOpen, isOpen, rentMovie, buyMovie } =
-    useContext(MovieContext);
+  const { price, setIsOpen, isOpen, rentMovie, buyMovie } = useContext(
+    MovieContext
+  );
   const genres = movie.genres?.map(({ name }) => name).join(", ");
 
   return (
